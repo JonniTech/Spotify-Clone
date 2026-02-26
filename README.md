@@ -347,8 +347,8 @@ tevify/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tevify.git
-cd tevify
+git clone https://github.com/JonniTech/Spotify-Clone.git
+cd Spotify-Clone
 
 # Install dependencies
 npm install
