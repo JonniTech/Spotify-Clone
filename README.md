@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="src/assets/Tevify-image.png" alt="Tevify" width="200" />
+<h1>TEVIFY</h1>
 
-# Tevify
+<img src="src/assets/Tevify-image.png" alt="Tevify — Music Streaming Application" width="100%" />
 
 ### A Modern Music Streaming Experience
 
@@ -13,8 +13,6 @@
 [![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)](https://zustand-demo.pmnd.rs)
 
 **Tevify** is a feature-rich, Spotify-inspired music streaming web application built with modern web technologies. It delivers a premium listening experience through the Jamendo Creative Commons music catalog, featuring real-time playback, library management, artist discovery, and a fully responsive mobile-first design.
-
-[Live Demo](#getting-started) | [Features](#features) | [Architecture](#architecture) | [Getting Started](#getting-started)
 
 </div>
 
